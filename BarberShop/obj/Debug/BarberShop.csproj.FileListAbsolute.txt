@@ -1,0 +1,6 @@
+C:\Users\Стасик\Desktop\Class-master\BarberShop\bin\Debug\BarberShop.dll
+C:\Users\Стасик\Desktop\Class-master\BarberShop\bin\Debug\BarberShop.pdb
+C:\Users\Стасик\Desktop\Class-master\BarberShop\obj\Debug\BarberShop.csprojResolveAssemblyReference.cache
+C:\Users\Стасик\Desktop\Class-master\BarberShop\obj\Debug\BarberShop.csproj.CoreCompileInputs.cache
+C:\Users\Стасик\Desktop\Class-master\BarberShop\obj\Debug\BarberShop.dll
+C:\Users\Стасик\Desktop\Class-master\BarberShop\obj\Debug\BarberShop.pdb

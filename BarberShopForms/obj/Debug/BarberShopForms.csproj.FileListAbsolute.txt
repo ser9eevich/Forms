@@ -1,0 +1,16 @@
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\bin\Debug\BarberShopForms.exe.config
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\bin\Debug\BarberShopForms.exe
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\bin\Debug\BarberShopForms.pdb
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\bin\Debug\BarberShop.dll
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\bin\Debug\BarberShop.pdb
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.csprojResolveAssemblyReference.cache
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.AddClient.resources
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.MainForm.resources
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.Properties.Resources.resources
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.csproj.GenerateResource.Cache
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.csproj.CoreCompileInputs.cache
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.exe
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.pdb
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.EditClient.resources
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.AppointmentForm.resources
+C:\Users\Стасик\Desktop\Class-master\BarberShopForms\obj\Debug\BarberShopForms.Info.resources
